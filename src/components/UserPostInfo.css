@@ -1,0 +1,21 @@
+.UserPostInfo {
+  margin: 10px;
+}
+
+.pfp {
+  width: 50px;
+  box-shadow: -1px 1px 3px black;
+  border-radius: 50%;
+}
+
+.Name {
+  color: White;
+  margin: 0px;
+  margin-left: 10px;
+}
+
+.Date {
+  margin: 0px;
+  color: rgb(197, 197, 197);
+  margin-left: 10px;
+}

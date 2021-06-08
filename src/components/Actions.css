@@ -1,0 +1,28 @@
+.Actions {
+  margin-left: 10px;
+  margin-right: 10px;
+  border-top: 2px solid #3d3f41;
+  border-bottom: 2px solid #3d3f41;
+}
+
+.Actions table {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.Actions td {
+  min-width: 126px;
+  text-align: center;
+}
+
+.Actions a {
+  color: rgb(197, 197, 197);
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.Actions a:hover {
+  color: White;
+}
